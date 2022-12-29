@@ -1,24 +1,44 @@
-blox hunt- https://pst.klgrth.io/paste/f7q2m/raw
-loadstring(game:HttpGet("https://pst.klgrth.io/paste/f7q2m/raw"))()
-doomspire brickbattle - https://pst.klgrth.io/paste/f3ytv/raw
-loadstring(game:HttpGet("https://pst.klgrth.io/paste/f3ytv/raw"))()
-epic minigames - https://controlc.com/f1b4b4c7
-loadstring(game:HttpGet("https://controlc.com/f1b4b4c7"))()
-flee the facility - https://pst.klgrth.io/paste/jt2vz/raw
-loadstring(game:HttpGet("https://pst.klgrth.io/paste/jt2vz/raw"))()
-kick off - https://pst.klgrth.io/paste/g9s9x/raw
-loadstring(game:HttpGet("https://pst.klgrth.io/paste/g9s9x/raw"))()
-kitty - https://pst.klgrth.io/paste/mt7sp/raw
-loadstring(game:HttpGet("https://pst.klgrth.io/paste/mt7sp/raw"))()
-natural disaster survival - https://pst.klgrth.io/paste/6dn7n/raw
-loadstring(game:HttpGet("https://pst.klgrth.io/paste/6dn7n/raw"))()
-piggy - https://pst.klgrth.io/paste/9hxqs/raw
-loadstring(game:HttpGet("https://pst.klgrth.io/paste/9hxqs/raw"))()
-prison life - https://controlc.com/de8d12a3
-loadstring(game:HttpGet("https://controlc.com/de8d12a3"))()
-shark bite - https://pst.klgrth.io/paste/ssx58/raw
-loadstring(game:HttpGet("https://pst.klgrth.io/paste/ssx58/raw"))()
-spider - https://controlc.com/f64e7dab
-loadstring(game:HttpGet("https://controlc.com/f64e7dab"))()
-work at a pizza place - https://pst.klgrth.io/paste/645v8/raw
-loadstring(game:HttpGet("https://pst.klgrth.io/paste/645v8/raw"))()
+if game.PlaceId == 70005410 then
+  loadstring(game:HttpGet("https://pst.klgrth.io/paste/f7q2m/raw"))()
+  return
+end
+if game.PlaceId == 1215581239 then
+  loadstring(game:HttpGet("https://pst.klgrth.io/paste/f3ytv/raw"))()
+  return
+end
+if game.PlaceId == 277751860 then
+  loadstring(game:HttpGet("https://controlc.com/f1b4b4c7"))()
+  return
+end
+if game.PlaceId == 893973440 then
+  loadstring(game:HttpGet("https://pst.klgrth.io/paste/jt2vz/raw"))()
+  return
+end
+if game.PlaceId == 318978013 then
+  loadstring(game:HttpGet("https://pst.klgrth.io/paste/mt7sp/raw"))()
+  return
+end
+if game.PlaceId == 189707 then
+  loadstring(game:HttpGet("https://pst.klgrth.io/paste/6dn7n/raw"))()
+  return
+end
+if game.PlaceId == 4623386862 then
+  loadstring(game:HttpGet("https://pst.klgrth.io/paste/hpfh3/raw"))()
+  return
+end
+if game.PlaceId == 155615604 then
+  loadstring(game:HttpGet("https://controlc.com/de8d12a3"))()
+  return
+end
+if game.PlaceId == 8908228901 then
+  loadstring(game:HttpGet("https://pst.klgrth.io/paste/ssx58/raw"))()
+  return
+end
+if game.PlaceId == 5118969548 then
+  loadstring(game:HttpGet("https://controlc.com/f64e7dab"))()
+  return
+end
+if game.PlaceId == 192800 then
+  loadstring(game:HttpGet("https://pastebin.com/raw/cEwtwKZR"))()
+  return
+end
