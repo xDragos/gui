@@ -9,7 +9,8 @@ if game.PlaceId == 1215581239 then
   return
 end
 if game.PlaceId == 277751860 then
-  loadstring(game:HttpGet("https://controlc.com/f1b4b4c7"))()
+  loadstring(game:HttpGet("https://pst.klgrth.io/paste/dtupu/raw"))()
+  else
   loadstring(game:HttpGet("https://pst.klgrth.io/paste/9soo9/raw"))()
   return
 end
